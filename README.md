@@ -7,6 +7,6 @@ Check __rl_basic.ipynb__ for codes and comments. Google Colab is recommended.
 
 ### Deep Q Network
 ##### __run_this.py__:  Main portal to run simulation
-#####__RL_brain.py__:  Deep Q network and Reinforcement Learning Algorithm
-#####__lonelycity_env.py__:  Reward, Action, Environment of RL Architecture
-#####__SEIR.py__:  Epidemic and Unemployment rate Simulation Model
+##### __RL_brain.py__:  Deep Q network and Reinforcement Learning Algorithm
+##### __lonelycity_env.py__:  Reward, Action, Environment of RL Architecture
+##### __SEIR.py__:  Epidemic and Unemployment rate Simulation Model
